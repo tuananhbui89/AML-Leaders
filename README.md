@@ -14,6 +14,7 @@ python gentable.py
 
 ```
 
+
 |Name |Affilation |Resources | 
 |----|----------|---------| 
 |[Nicholas Carlini](https://nicholas.carlini.com) |Google, UC Berkeley |[C&W Attacks, How to evaluate Adversarial Robustness](https://arxiv.org/abs/1902.06705)<br> [A Complete List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html)<br> [Adversarial Machine Learning Reading List](https://nicholas.carlini.com/writing/2018/adversarial-machine-learning-reading-list.html)| 
@@ -70,10 +71,10 @@ python gentable.py
 |[Battista Biggio](https://battistabiggio.github.io/) |University of Cagliari, Italy |Very first AML research| 
 |[Christian szegedy](https://scholar.google.com/citations?user=bnQMuzgAAAAJ&hl=en) |Google |Adversarial examples| 
 |[Yao Qin](https://cseweb.ucsd.edu//~yaq007/) |UCSB, Google || 
-|[John Duchi](https://web.stanford.edu/~jduchi/) |Stanford |[Distributional Robustness](https://web.stanford.edu/~jduchi/)| 
-|[
-Aleksander Madry ](https://madry.mit.edu/) |MIT |[PGD](https://madry.mit.edu/)| 
+|[Aleksander Madry ](https://madry.mit.edu/) |MIT |[PGD](https://madry.mit.edu/)| 
 |[Gradient Science Lab ](https://gradientscience.org/) |MIT |[AML in practice  ](https://gradientscience.org/)| 
+|[John Duchi](https://web.stanford.edu/~jduchi/) |Stanford |[Distributional Robustness](https://web.stanford.edu/~jduchi/)| 
+
 
 ## Some other statistics 
 
