@@ -8,6 +8,8 @@ Ian Goodfellow,https://www.iangoodfellow.com/,"Apple, Montreal",FGSM ,https://ar
 ,,,Cleverhans,http://www.cleverhans.io/
 BoLi,https://aisecure.github.io/,"UIUC, UC Berkeley",,
 Dawn Song ,https://people.eecs.berkeley.edu/~dawnsong/,UC Berkeley ,,
+Aleksander Madry ,https://madry.mit.edu/,MIT,PGD,https://madry.mit.edu/
+Gradient Science Lab ,https://gradientscience.org/,MIT,AML in practice  ,https://gradientscience.org/
 Alex Beutel ,https://alexbeutel.com/projects.html,Google ,"Recommender, Fairness",https://rrs2022.github.io/
 Colin Raffe ,https://colinraffel.com/,"Google, Uni of North Carolina, Chapel Hill, Hugging Face",Building Machine Learning Models like Open-Source Software,https://dl.acm.org/doi/10.1145/3545111
 Stefano Ermon ,https://cs.stanford.edu/~ermon/#pub,Stanford,GAN,https://cs.stanford.edu/~ermon/#pub
@@ -57,8 +59,9 @@ Jinfeng Yi,https://jinfengyi.net/,IBM ,,
 Battista Biggio,https://battistabiggio.github.io/,"University of Cagliari, Italy",Very first AML research,
 Christian szegedy,https://scholar.google.com/citations?user=bnQMuzgAAAAJ&hl=en,Google,Adversarial examples,
 Yao Qin,https://cseweb.ucsd.edu//~yaq007/,"UCSB, Google",,
-Aleksander Madry ,https://madry.mit.edu/,MIT,PGD,https://madry.mit.edu/
-Gradient Science Lab ,https://gradientscience.org/,MIT,AML in practice  ,https://gradientscience.org/
 John Duchi,https://web.stanford.edu/~jduchi/,Stanford,Distributional Robustness,https://web.stanford.edu/~jduchi/
 Q Data (Yanjun Qi),https://www.cs.virginia.edu/yanjun/,Uni of Virginia,Text Attack,https://github.com/QData/TextAttack
 THUNLP,http://nlp.csai.tsinghua.edu.cn/publication/,Tsinghua,Textual Attack and Defense,https://github.com/thunlp/TAADpapers
+Maura Pintor,https://maurapintor.github.io/cv/,"University of Cagliari, Italy",,
+Kush Varshney,https://krvarshney.github.io/,IBM ,Trusthworthy ML book ,http://www.trustworthymachinelearning.com/
+Hima Lakkaraju,https://himalakkaraju.github.io/,Harvard ,TrustworthyML Initiative,https://www.trustworthyml.org/
