@@ -1,12 +1,17 @@
 |Name |Affilation |Resources | 
 |----|----------|---------| 
+|[Bethge Lab](https://bethgelab.org/) |Tubingen  |[Foolbox](https://github.com/bethgelab/foolbox)| 
+|[TrustworthyML Initiative](https://www.trustworthyml.org/) |Harvard  || 
+|[Gradient Science Lab ](https://gradientscience.org/) |MIT |[AML in practice  ](https://gradientscience.org/)| 
+|[BoLi Lab](https://aisecure.github.io/) |UIUC, UC Berkeley || 
+|[Princeton-AML Group](http://adversarial-learning.princeton.edu/) |Princeton  || 
+|[Q Data (Yanjun Qi)](https://www.cs.virginia.edu/yanjun/) |Uni of Virginia |[Text Attack](https://github.com/QData/TextAttack)| 
+|[Machine Learning Security](https://unica-mlsec.github.io/mlsec/) |University of Cagliari, Italy || 
 |[Nicholas Carlini](https://nicholas.carlini.com) |Google, UC Berkeley |[C&W Attacks, How to evaluate Adversarial Robustness](https://arxiv.org/abs/1902.06705)<br> [A Complete List of All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html)<br> [Adversarial Machine Learning Reading List](https://nicholas.carlini.com/writing/2018/adversarial-machine-learning-reading-list.html)| 
 |[Nicolas Papernot](https://www.papernot.fr/) |UoT, PenState |[Differential Privacy](http://www.cleverhans.io/2021/05/01/capc.html)<br> [Cleverhans](http://www.cleverhans.io/)| 
-|[Ian Goodfellow](https://www.iangoodfellow.com/) |Apple, Montreal |[FGSM ](https://arxiv.org/abs/1412.6572)<br> [Cleverhans](http://www.cleverhans.io/)| 
-|[BoLi](https://aisecure.github.io/) |UIUC, UC Berkeley || 
+|[Ian Goodfellow](https://www.iangoodfellow.com/) |Apple, Montreal |[FGSM ](https://arxiv.org/abs/1412.6572)<br> [Cleverhans](http://www.cleverhans.io/)<br> | 
 |[Dawn Song ](https://people.eecs.berkeley.edu/~dawnsong/) |UC Berkeley  || 
 |[Aleksander Madry ](https://madry.mit.edu/) |MIT |[PGD](https://madry.mit.edu/)| 
-|[Gradient Science Lab ](https://gradientscience.org/) |MIT |[AML in practice  ](https://gradientscience.org/)| 
 |[Alex Beutel ](https://alexbeutel.com/projects.html) |Google  |[Recommender, Fairness](https://rrs2022.github.io/)| 
 |[Colin Raffe ](https://colinraffel.com/) |Google, Uni of North Carolina, Chapel Hill, Hugging Face |[Building Machine Learning Models like Open-Source Software](https://dl.acm.org/doi/10.1145/3545111)| 
 |[Stefano Ermon ](https://cs.stanford.edu/~ermon/#pub) |Stanford |[GAN](https://cs.stanford.edu/~ermon/#pub)| 
@@ -21,19 +26,16 @@
 |[Florian Tramer](https://floriantramer.com/) |UTHZ, Stanford |[Ensemble AT, Various inference attacks, adversarial examples, memorization in language models](https://floriantramer.com/)| 
 |[Hongyang Zhang](https://hongyanz.github.io/) |Waterloo, TTIC  |[TRADES](https://hongyanz.github.io/)| 
 |[Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage/home) |IBM  |[Tutorials, Workshops, Books on AML](https://sites.google.com/site/pinyuchenpage/home)| 
-|[Bethge Lab](https://bethgelab.org/) |Tubingen  |[Foolbox](https://github.com/bethgelab/foolbox)| 
 |[Wieland Brendel ](https://robustml.is.mpg.de/) |Max Planck, Tubingen  || 
 |[Jonas Rauber](https://scholar.google.de/citations?user=1ujJpuMAAAAJ) |Tubingen  || 
 |[Matthias Hein](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/maschinelles-lernen/news/) |Tubingen  || 
 |[Francesco Croce](https://scholar.google.com/citations?user=laq9cq0AAAAJ&hl=en) |Tubingen  |[Robustbench, Auto-Attack](https://robustbench.github.io/)| 
 |[Maksym Andriushchenko](https://www.andriushchenko.me/) |EPFL |[SAM](https://www.andriushchenko.me/)| 
-|[Princeton-AML Group](http://adversarial-learning.princeton.edu/) |Princeton  || 
 |[Haichao Zhange](https://sites.google.com/site/hczhang1/) |Horizon  || 
 |[Anh Nguyen](https://anhnguyen.me/research/) |Auburn |[Visual explaination](https://anhnguyen.me/research/)| 
 |[Data Analytics Lab ](http://www.da.inf.ethz.ch/people/) |ETHZ || 
 |[Seyed Moosavi](https://smoosavi.me/) |ETHZ, UCL  |[Deepfool, Universal Perturbations](https://smoosavi.me/)| 
 |[Chaowei Xiao](https://xiaocw11.github.io/) |Nvidia || 
-|[TrustworthyML Initiative](https://www.trustworthyml.org/) |Harvard  || 
 |[TrustingAI ](https://research.ibm.com/topics/trustworthy-ai) |IBM  || 
 |[Jianyu Wang](https://www.jianyuwang.me/) |Waymo, UCLA || 
 |[Huan Zhang ](http://www.huan-zhang.com/) |CMU, UCLA || 
@@ -57,8 +59,10 @@
 |[Christian szegedy](https://scholar.google.com/citations?user=bnQMuzgAAAAJ&hl=en) |Google |Adversarial examples| 
 |[Yao Qin](https://cseweb.ucsd.edu//~yaq007/) |UCSB, Google || 
 |[John Duchi](https://web.stanford.edu/~jduchi/) |Stanford |[Distributional Robustness](https://web.stanford.edu/~jduchi/)| 
-|[Q Data (Yanjun Qi)](https://www.cs.virginia.edu/yanjun/) |Uni of Virginia |[Text Attack](https://github.com/QData/TextAttack)| 
 |[THUNLP](http://nlp.csai.tsinghua.edu.cn/publication/) |Tsinghua |[Textual Attack and Defense](https://github.com/thunlp/TAADpapers)| 
 |[Maura Pintor](https://maurapintor.github.io/cv/) |University of Cagliari, Italy || 
 |[Kush Varshney](https://krvarshney.github.io/) |IBM  |[Trusthworthy ML book ](http://www.trustworthymachinelearning.com/)| 
 |[Hima Lakkaraju](https://himalakkaraju.github.io/) |Harvard  |[TrustworthyML Initiative](https://www.trustworthyml.org/)| 
+|[Maria-Irina Nicolae](https://ririnicolae.github.io/) |Bosch AI, IBM |[Adversarial Robustness Toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox)| 
+|[Micah Goldblum](https://goldblum.github.io/) |NYU, Maryland || 
+|[Jonas Geiping](https://jonasgeiping.github.io/) |Maryland  || 
